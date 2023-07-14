@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name='asyncio_functools',
-    version='0.0.2',
+    version='0.0.3',
     author='Appuxif',
     author_email='app@mail.com',
     description='A Python package with functools working with asyncio coroutines',
